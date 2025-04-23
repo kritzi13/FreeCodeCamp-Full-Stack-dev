@@ -2,15 +2,6 @@
 
 Welcome to my personal repository for all the projects I complete while working through the [FreeCodeCamp Full Stack Development Certification](https://www.freecodecamp.org/). This repo showcases my hands-on learning and growing skillset across various areas of web development.
 
-## 📂 Projects in This Repository
-
-| Project Title                        | Description                             |
-| ----------------------------------- | --------------------------------------- |
-| 🚀 Build a Cat Blog                 | A simple blog layout using HTML & CSS   |
-| 🎨 Cat Photoshop                    | Basic image manipulation with HTML/CSS  |
-| 🏨 Hotel Feedback Form              | A structured form using semantic HTML   |
-| ✈️ Travel Agency Page              | A landing page for a travel website     |
-
 > 📌 Each project is saved in its own folder and can be opened and run individually.
 
 ## 💡 Skills I'm Practicing
